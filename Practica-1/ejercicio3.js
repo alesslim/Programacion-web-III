@@ -1,7 +1,6 @@
 // ===================================================
 // Caratula
 // Nombre Completo: Limachi Colque Felipe Alessandro
-// C.I.: 9120895
 // Carrera: Informatica
 // Materia: Programacion web 3
 // Fecha: 20/09/2025
@@ -25,4 +24,5 @@ let miFuncion = x =>{
 };
 
 let obj = miFuncion([1,2,3,4,5]); 
+
 console.log(obj);
